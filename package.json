@@ -1,6 +1,6 @@
 {
   "name": "redux-pack-updated",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Sensible promise handling and middleware for redux. This is a fork from https://github.com/lelandrichardson/redux-pack.git",
   "main": "lib/index.js",
   "scripts": {
